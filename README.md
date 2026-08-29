@@ -186,6 +186,20 @@ Também quero me especializar em **programação de baixo nível**:
   <img src="https://img.shields.io/badge/Reverse_Engineering-8B0000?style=for-the-badge"/>
 </p>
 
+
+
+## 🤖 Uso de Inteligência Artificial
+
+Sobre o uso de ia o auxílio de **Inteligência Artificial**, utilizada principalmente para correção de erros, sugestões de implementação, explicação de conceitos e documentação.
+
+A porcentagem de participação da IA apresentada abaixo é apenas uma **estimativa**, calculada com base na quantidade de linhas que foram modificadas, corrigidas ou influenciadas durante o desenvolvimento. Como algumas alterações podem ter sido feitas parcialmente com auxílio da IA, não é possível determinar um percentual exato.
+
+**Participação estimada de IA: ~X%**
+
+> Este percentual não representa uma medição exata da autoria do código, mas apenas uma estimativa baseada no processo de desenvolvimento.
+
+
+
 ---
 
 <p align="center">
